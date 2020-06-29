@@ -1,0 +1,22 @@
+{
+  "name": "olo-technical-interview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/austinrr/olo-technical-interview.git",
+  "author": "Austin Rhodes <austin.rhodes@olo.com>",
+  "license": "MIT",
+  "scripts": {
+  },
+  "devDependencies": {
+    "@types/mocha": "^7.0.2",
+    "@types/node": "^14.0.14",
+    "chai": "^4.2.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "@types/chai": "^4.2.11",
+    "mocha": "^8.0.1",
+    "typed-rest-client": "^1.7.3"
+  }
+}
